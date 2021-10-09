@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+}
+.inpval{
+    height:50px;
+    width:400px;
+    font-size: 20px;
+    background-color: azure;
+    border:none;
+    border:solid 1px #ccc;
+    border-radius: 10px;
+}
+.todo-button{
+    border:none;
+}
